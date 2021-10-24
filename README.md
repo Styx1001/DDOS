@@ -1,3 +1,3 @@
-# DeathDDOS
-DeathDDOS
-Death IP HTTP/HTTPS
+# LI_DDOS
+
+IP HTTP/HTTPS
